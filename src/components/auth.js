@@ -49,6 +49,6 @@ class Auth {
     
 }
 const auth = new Auth({
-  baseUrl: 'https://mestobackend-2ad59cc83148.herokuapp.com',
+  baseUrl: 'https://crabby-yak-belt.cyclic.cloud',
 });
 export default auth;

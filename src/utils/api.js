@@ -109,6 +109,6 @@ class Api {
     }
 }
 const api = new Api({
-  baseUrl: 'https://mestobackend-2ad59cc83148.herokuapp.com',
+  baseUrl: 'https://crabby-yak-belt.cyclic.cloud',
 });
 export default api;
