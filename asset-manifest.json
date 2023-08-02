@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mestofrontend/static/css/main.2632d314.css",
+    "main.js": "/mestofrontend/static/js/main.7eaa9e95.js",
+    "static/js/787.5530211c.chunk.js": "/mestofrontend/static/js/787.5530211c.chunk.js",
+    "static/media/Inter-Black.ttf": "/mestofrontend/static/media/Inter-Black.5bc9c4d5770576fe98af.ttf",
+    "static/media/Inter-Regular.ttf": "/mestofrontend/static/media/Inter-Regular.96ce55e3ba0d6a209090.ttf",
+    "static/media/Inter-Black.woff": "/mestofrontend/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/mestofrontend/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/mestofrontend/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/mestofrontend/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/mestofrontend/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.svg": "/mestofrontend/static/media/logo.bbe2a6eafac19c3d031c272c424875ca.svg",
+    "static/media/like.svg": "/mestofrontend/static/media/like.1ad06e85f169668a1f36.svg",
+    "index.html": "/mestofrontend/index.html",
+    "static/media/bad.svg": "/mestofrontend/static/media/bad.d4ce2a261b68c6da973d51ef98afae1a.svg",
+    "static/media/delete.svg": "/mestofrontend/static/media/delete.ce3b64935accf9b8212e.svg",
+    "static/media/successful.svg": "/mestofrontend/static/media/successful.a9eb6caf1da3ff48b215fb1dd9477d74.svg",
+    "static/media/union.svg": "/mestofrontend/static/media/union.dd6a61e81552be95f4b7.svg",
+    "static/media/pen.svg": "/mestofrontend/static/media/pen.6c7bf05444b9793fdf6e.svg",
+    "static/media/penava.svg": "/mestofrontend/static/media/penava.ae1a976ddb506239e9f0.svg",
+    "static/media/close_icon.svg": "/mestofrontend/static/media/close_icon.039f1f5203f653b4bacd.svg",
+    "static/media/add.svg": "/mestofrontend/static/media/add.bed8c136e13907f5eefb.svg",
+    "main.2632d314.css.map": "/mestofrontend/static/css/main.2632d314.css.map",
+    "main.7eaa9e95.js.map": "/mestofrontend/static/js/main.7eaa9e95.js.map",
+    "787.5530211c.chunk.js.map": "/mestofrontend/static/js/787.5530211c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2632d314.css",
+    "static/js/main.7eaa9e95.js"
+  ]
+}
